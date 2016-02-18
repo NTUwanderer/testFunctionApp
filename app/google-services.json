@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "androidlockscreendemo",
+    "project_number": "727391579541",
+    "name": "AndroidLockScreenDemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727391579541:android:ce0c80e9700a41de",
+        "client_id": "android:com.example.androidlockscreendemo",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.androidlockscreendemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727391579541-q6ec1ocjhe1fjrgi8tirs2trqqcmkagd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidlockscreendemo",
+            "certificate_hash": "99339D23CAF566513317E5D2A8AB29ED30E63651"
+          }
+        },
+        {
+          "client_id": "727391579541-b09eane6495lcqeuehvm5bef32bv8juu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
